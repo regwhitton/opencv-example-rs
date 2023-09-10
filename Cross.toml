@@ -1,0 +1,9 @@
+
+[target.arm-unknown-linux-gnueabihf]
+# make rpi01-docker
+image="cross-opencv-rpi01"
+
+[target.x86_64-pc-windows-gnu]
+# make winpc-docker
+image="cross-opencv-winpc"
+
